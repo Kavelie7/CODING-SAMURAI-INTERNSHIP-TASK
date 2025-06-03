@@ -1,3 +1,0 @@
-﻿  Number Guessing game.cpp
-C:\Users\User\Desktop\Coding Samurai Projects\Number Guessing game\Number Guessing game\Number Guessing game.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Number Guessing game.vcxproj -> C:\Users\User\Desktop\Coding Samurai Projects\Number Guessing game\x64\Debug\Number Guessing game.exe
